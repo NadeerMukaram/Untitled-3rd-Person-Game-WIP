@@ -1,5 +1,5 @@
 # 3rd-Person-Game-WIP
-WIP - 3rd-person game I'm currently developing in my pastime (Passion Project). Previews
+WIP - 3rd-person game I'm currently developing in my pastime
 
 ![Screenshot_2](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/37954c24-5319-4952-a1a6-125ff56487bb)
 ![Screenshot_3](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/1e4d0eb5-2391-42b9-b451-7eee94e80761)
