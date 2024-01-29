@@ -1,6 +1,8 @@
 # 3rd-Person-Game-WIP
 WIP - 3rd-person game I'm currently developing in my pastime
 
+![Screenshot_1](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/67ae3059-cd08-40f9-912a-ca8d21d76f5d)
+![Screenshot_2](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/5d5e4bca-c814-48ae-8ead-7b27308cf1e0)
 ![Screenshot_2](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/37954c24-5319-4952-a1a6-125ff56487bb)
 ![Screenshot_3](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/1e4d0eb5-2391-42b9-b451-7eee94e80761)
 ![Screenshot_4](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/900e4ceb-1361-45c5-b13e-d591cfb06d7c)
