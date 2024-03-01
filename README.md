@@ -1,4 +1,3 @@
-# 3rd-Person-Game-WIP
 wip wip wip wip wip wip
 
 ![Untitled](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/dbe09258-8f70-4392-90fb-941d895eb4a3)
