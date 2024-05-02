@@ -1,5 +1,12 @@
 wip wip wip wip wip wip
 
+![Screenshot_1](https://github.com/NadeerMukaram/untitled-3rd-person-game-wip/assets/72739154/663b7a9a-73ee-4877-9c3b-5ceea25fae6b)
+![Screenshot_2](https://github.com/NadeerMukaram/untitled-3rd-person-game-wip/assets/72739154/cacba0c3-a2d5-4c67-a4da-2ea7782935c6)
+![Screenshot_3](https://github.com/NadeerMukaram/untitled-3rd-person-game-wip/assets/72739154/fbf9f644-1fdd-491c-b668-e4d2904b9486)
+![Screenshot_4](https://github.com/NadeerMukaram/untitled-3rd-person-game-wip/assets/72739154/dec61f28-aaef-4625-aaa9-8f4bc4b3f471)
+![Screenshot_5](https://github.com/NadeerMukaram/untitled-3rd-person-game-wip/assets/72739154/46dd28ba-5d63-4510-a720-95f5e6f73945)
+![Screenshot_6](https://github.com/NadeerMukaram/untitled-3rd-person-game-wip/assets/72739154/5522ba46-b48a-48bb-aa4e-6a8553d79a1d)
+![Untitled](https://github.com/NadeerMukaram/untitled-3rd-person-game-wip/assets/72739154/f6aa44e1-c2fb-4ef0-a4d8-6925a947afd4)
 ![Untitled](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/dbe09258-8f70-4392-90fb-941d895eb4a3)
 ![Untitled1](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/2b7b1825-b2b2-42b6-a5af-5c517af5ef29)
 ![Screenshot_5](https://github.com/NadeerMukaram/3rd-Person-Game-WIP/assets/72739154/bdf53c7e-4708-49a6-bb94-55a8227d18f9)
