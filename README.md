@@ -1,5 +1,18 @@
 wip wip wip wip wip wip
 
+
+![Screenshot 2024-09-26 172958](https://github.com/user-attachments/assets/ae98ba97-05c6-4503-b809-4dd283ee9df3)
+![Screenshot 2024-09-26 173014](https://github.com/user-attachments/assets/a2121d82-814f-4efc-8851-5aa6479a8ceb)
+![Screenshot 2024-09-26 173036](https://github.com/user-attachments/assets/6b9b29e8-6e13-4499-a584-c0037bf2342f)
+![Screenshot 2024-09-26 173102](https://github.com/user-attachments/assets/f2c949ef-a15d-464e-a710-effa7ddb9e9e)
+![Screenshot 2024-09-26 173117](https://github.com/user-attachments/assets/7c94b788-8f3c-4038-8a58-06fdd8e79de1)
+![Screenshot 2024-09-26 173145](https://github.com/user-attachments/assets/a674cf6c-76a6-4d3e-9b73-772006bbb331)
+![Screenshot 2024-09-26 173317](https://github.com/user-attachments/assets/5acea3f0-ebd0-45da-906c-50e600be7d85)
+![Screenshot 2024-09-26 173358](https://github.com/user-attachments/assets/d119e2f6-0206-4e6d-859d-6338adcd0619)
+![Screenshot 2024-09-26 173439](https://github.com/user-attachments/assets/2ce91c61-ebc7-42c2-9474-10cecfdba01e)
+![Screenshot 2024-09-26 173451](https://github.com/user-attachments/assets/f5178484-83d5-4a4e-90c6-d31626246380)
+![Screenshot 2024-09-26 173226](https://github.com/user-attachments/assets/c5985869-7be7-4338-a4f3-7b08a76c2054)
+
 ![01 (1)](https://github.com/NadeerMukaram/untitled-3rd-person-game-wip/assets/72739154/30f53692-e39e-452f-91f2-085bd1eba132)
 ![Screenshot 2024-06-07 231335](https://github.com/NadeerMukaram/untitled-3rd-person-game-wip/assets/72739154/000c14bc-a859-45d4-9ca0-c317306c83ef)
 ![Screenshot 2024-06-07 231445](https://github.com/NadeerMukaram/untitled-3rd-person-game-wip/assets/72739154/b05d2f32-e84a-4940-bb00-af191ac53fb4)
