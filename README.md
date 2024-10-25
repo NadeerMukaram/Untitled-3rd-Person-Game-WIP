@@ -1,5 +1,10 @@
 wip wip wip wip wip wip
 
+![Screenshot 2024-10-26 003245](https://github.com/user-attachments/assets/350c584f-1362-4327-94e5-d6bfe84fbc50)
+![Screenshot 2024-10-26 003257](https://github.com/user-attachments/assets/108fa096-c7e2-4c43-8450-af5f2c9ecb93)
+![Screenshot 2024-10-26 003340](https://github.com/user-attachments/assets/3564e9c1-7818-481c-8b73-05ff483f0609)
+![Screenshot 2024-10-26 003459](https://github.com/user-attachments/assets/33f781df-3470-44b6-9351-544fff5fcf6e)
+![Screenshot 2024-10-26 003308](https://github.com/user-attachments/assets/bc59a16d-25ab-4af9-8c1d-86448f2c8c96)
 
 ![Screenshot 2024-09-26 172958](https://github.com/user-attachments/assets/ae98ba97-05c6-4503-b809-4dd283ee9df3)
 ![Screenshot 2024-09-26 173014](https://github.com/user-attachments/assets/a2121d82-814f-4efc-8851-5aa6479a8ceb)
